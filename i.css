@@ -1,0 +1,31 @@
+.heading{
+    width:80%;
+    margin:auto;
+    text-align: center;
+}
+.dice{
+    text-align:center;
+    display: inline-block;
+}
+body{
+    background-color: black;
+
+}
+h1{
+    margin:30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 5px 0 black;
+    font-size: 8rem;
+    color: turquoise;
+
+
+}
+p{
+    font-size: 2rem;
+    color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width:80%;
+
+}
